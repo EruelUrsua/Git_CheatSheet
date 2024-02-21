@@ -21,7 +21,7 @@ git branch -M main
 git push -u origin main
 ```
 
-3. Making a copy of the repository in your local Machine
+3. Make a copy of the repository in your local machine (be sure to go to your chosen folder first)
 ```
 git clone
 ```
