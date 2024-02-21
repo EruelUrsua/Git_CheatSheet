@@ -20,7 +20,12 @@ git remote add origin <Repository Link>
 git branch -M main
 git push -u origin main
 ```
- 
+
+3. Making a copy of the repository in your local Machine
+```
+git clone
+```
+
 ### How to Contribute
 1. Create a New Branch
 
