@@ -6,7 +6,7 @@
 ### Set Up Repository Commands
 1. Set Up Terminal / Bash Commands
 ```
-echo "# Git_CheatSheet" >> README.md
+echo "# <Repository Name>" >> README.md
 git init
 git add README.md
 git commit -m "<Commit Message>"
@@ -57,6 +57,7 @@ git checkout main
 ```
 2. If you can't switch branches stash your current branch
 ```
+git add .
 git stash
 git checkout main
 ```
